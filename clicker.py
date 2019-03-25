@@ -138,7 +138,7 @@ def Tutorial():
                             "Respect barret gives five score per second for each purchase;" + '\n' +
                             "Respect bulletproof vest activates double score bonus for each previous perchase for 10 seconds;" +
                             '\n' + "Respect rifle magnifies respects per click twice;" +
-                            '\n' + "To win, you neeed to collect all capitan equipment, get 100000 respects and also end the funeral.",
+                            '\n' + "To win, you neeed to collect all capitan equipment, get 1000000 respects and also end the funeral.",
                 font = ("Times", 15)
                 )
     t_l.pack()
