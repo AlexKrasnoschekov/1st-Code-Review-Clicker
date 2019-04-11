@@ -1,5 +1,5 @@
 import time
-from tkinter import Tk, Button, Label, Text
+from tkinter import Tk, Button, Label, Text, END
 from threading import Thread
 
 
@@ -36,7 +36,7 @@ def plus(event):
     global counter
     global plus_
     counter += plus_
-    calculate(event = None)
+    calculate(event=None)
 
 
 def buy_gun():
@@ -221,7 +221,7 @@ TutorialButton.place(x=0, y=134)
 
 VestButton.place(x=0, y=303)
 
-Quit.place(x=92, y=134)
+Quit.place(x=110, y=134)
 
 Heavy.place(x=0, y=365)
 
