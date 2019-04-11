@@ -1,5 +1,5 @@
 import time
-from tkinter import *
+from tkinter import Tk, Button, Label, Text
 from threading import Thread
 
 
