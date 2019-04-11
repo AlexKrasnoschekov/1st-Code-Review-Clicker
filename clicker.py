@@ -1,7 +1,7 @@
 import time
 from tkinter import Tk, Button, Label, Text, END
 from threading import Thread
-
+import sys
 
 counter = 0
 plus_ = 1
